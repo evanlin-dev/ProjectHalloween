@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://pjr1ij1sxexg"]
+
+[ext_resource type="PackedScene" uid="uid://b4wrepgfd14ly" path="res://assets/WRAD_ARMS/arms.glb" id="1_fe6m2"]
+
+[node name="arms2" unique_id=958290257 instance=ExtResource("1_fe6m2")]

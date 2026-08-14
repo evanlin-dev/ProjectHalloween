@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bimx88ca10tml"
+path="res://.godot/imported/arms.obj-7d3a49e7213fd0a4dc897c38c2cf7f39.mesh"
+
+[deps]
+
+files=["res://.godot/imported/arms.obj-7d3a49e7213fd0a4dc897c38c2cf7f39.mesh"]
+
+source_file="res://assets/WRAD_ARMS/arms.obj"
+dest_files=["res://.godot/imported/arms.obj-7d3a49e7213fd0a4dc897c38c2cf7f39.mesh", "res://.godot/imported/arms.obj-7d3a49e7213fd0a4dc897c38c2cf7f39.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
